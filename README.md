@@ -6,5 +6,5 @@
 <br>Frontend= Bootstrap
 
 ## vue globale de l'application
-![grab-landing-page][application.gif]
+![grab-landing-page](application.gif)
 
